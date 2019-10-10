@@ -15,7 +15,9 @@ Silahkan anda download sesuai versi sistem operasi dan arsitektur yang anda paka
 
 <p>Silahkan anda buka file instalasi git yang sudah anda download tadi.</p>
 <p>Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah ini :</p>
+
 ![gambar instalasi git](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_2.png)
+
 Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik "Next" sampai instalasi selesai.
 
 Selanjutnya anda harus mempunyai akun github, jika anda belum pernah mendaftar silahkan ikuti langkah berikut.
