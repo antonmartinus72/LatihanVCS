@@ -59,5 +59,5 @@ Maka akan muncul tampilan seperti di bawah ini :
 Isi "Repository name" dengan nama yang anda inginkan. Tetapi mari kita gunakan nama **"Latihan1"** sebagai permulaan, agar bisa lebih mudah mengikuti petunjuk ini di bagian selanjutnya.
 
 # 3. Menggunakan Git
-Jika anda sudah menyelesaikan tahap satu, anda bisa mengikuti petunjuk bagaimana menggunakan git. Silahkan anda buka aplikasi yang sudah anda install pada petunjuk nomor 1 yaitu "Git Bash".  
-Biasanya Git Bash ini bisa dibuka langsung dengan cara "klik kanan" di desktop maupun windows explorer. Namun sebagai permulaan saya akan membuka aplikasi dari Start Menu di sistem operasi windows.
+Jika anda sudah menyelesaikan tahap satu, anda bisa mengikuti petunjuk bagaimana menggunakan git. Silahkan anda buka aplikasi yang sudah anda install pada petunjuk nomor 1 yaitu **"Git Bash"**.  
+Biasanya Git Bash ini bisa dibuka langsung dengan cara "klik kanan" di desktop maupun windows explorer. Namun sebagai permulaan saya akan membuka aplikasi dari **Start Menu > All programs > Git > Git Bash** atau dengan mengetikan langsung "Git Bash" pada **Start Menu** di sistem operasi Windows.
