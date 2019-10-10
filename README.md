@@ -2,7 +2,7 @@
 
 <p>Dalam petunjuk ini, saya akan membahas bagaimana cara membuat repositori baru.</p>
 Dimulai dari Instalasi perangkat lunak Git sampai repositori baru dibuat.
-Di sini saya akan menggunakan Github.com sebagai managemen proyek yang akan kita pakai dalam petunjuk ini.
+Di sini saya akan menggunakan Github.com sebagai managemen proyek yang akan kita pakai dalam petunjuk ini dan Sistem Operasi Windows 7. Mungkin cara yang akan saya gunakan disini akan sedikit berbeda dengan sistem operasi Linux dan Mac OS X.
 
 ## 1. Permulaan
 Pertama kita akan menginstall perangkat lunak yang bernama "Git", silahkan anda download dari halaman "http://git-scm.com/download" tanpa tanda petik.
@@ -44,7 +44,7 @@ Klik **"Create an account"** di akhir halaman **Step 1**
 * Usahakan untuk meminimalisir kesalahan saat melakukan "Verify account" pada saat pengisian data.
 
 Jika data sudah berhasil anda isi, maka anda bisa melanjutkan ke **Step 2** dan **Step 3**.
-Pada **Step 3**, Verifikasi akan dikirimkan oleh Github dalam bentuk email ke alamat email yang telah anda masukan pada tahap pengisian data atau Step 1.
+Pada **Step 3**, Verifikasi akan dikirimkan oleh Github dalam bentuk email ke alamat email yang telah anda masukan pada **tahap pengisian data** atau **Step 1**.
 
 ### Selanjutnya adalah langkah membuat repositori baru dalam github.
 
@@ -59,3 +59,5 @@ Maka akan muncul tampilan seperti di bawah ini :
 Isi "Repository name" dengan nama yang anda inginkan. Tetapi mari kita gunakan nama **"Latihan1"** sebagai permulaan, agar bisa lebih mudah mengikuti petunjuk ini di bagian selanjutnya.
 
 # 3. Menggunakan Git
+Jika anda sudah menyelesaikan tahap satu, anda bisa mengikuti petunjuk bagaimana menggunakan git. Silahkan anda buka aplikasi yang sudah anda install pada petunjuk nomor 1 yaitu "Git Bash".  
+Biasanya Git Bash ini bisa dibuka langsung dengan cara "klik kanan" di desktop maupun windows explorer. Namun sebagai permulaan saya akan membuka aplikasi dari Start Menu di sistem operasi windows.
