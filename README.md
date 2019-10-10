@@ -32,23 +32,23 @@ Berikut tampilan pendaftaran github :
 ![gambar daftar github](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_4.png)
 
 Anda akan masuk pada halaman pendaftaran **Step 1**.
-Silahkan isi Username, Email address dan Password anda.
+Silahkan isi **Username**, **Email address** dan **Password** anda.
 Silahkan lakukan **Verify account** dengan benar.
-Klik **Create an account** di akhir halaman **Step 1**
+Klik **"Create an account"** di akhir halaman **Step 1**
 
-Catatan :
+**Catatan :**
 
-* Pastikan pengisian Username tidak menggunakan spasi.
+* Pastikan pengisian Username tidak menggunakan **spasi**.
 * Isi Email address dengan alamat email yang anda gunakan dan bisa di akses saat ini.
-* Pastikan pengisian data sudah berubah menjadi tanda centang "**✓**" berwarna hijau, yang menandakan Username atau Email address yang anda masukan bisa digunakan oleh anda.
+* Pastikan pengisian data sudah berubah menjadi tanda centang "**✓**" berwarna hijau, yang menandakan **Username** atau **Email address** yang anda masukan bisa digunakan oleh anda.
 * Usahakan untuk meminimalisir kesalahan saat melakukan "Verify account" pada saat pengisian data.
 
-Jika data sudah berhasil anda isi, maka anda bisa melanjutkan ke "Step 2" dan "Step 3".
+Jika data sudah berhasil anda isi, maka anda bisa melanjutkan ke **Step 2** dan **Step 3**.
 Pada Step 3, Verifikasi akan dikirimkan oleh Github dalam bentuk email ke alamat email yang telah anda masukan pada tahap pengisian data atau Step 1.
 
 ### Selanjutnya adalah langkah membuat repositori baru dalam github.
 
-Silahkan anda ikon "**+**" pada sudut kanan atas halaman lalu pilih "**New repository**" seperti gambar di bawah ini :
+Silahkan anda ikon "**+"** pada sudut kanan atas halaman lalu pilih "**New repository**" seperti gambar di bawah ini :
 
 ![Img membuat repo](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_5.png)
 
