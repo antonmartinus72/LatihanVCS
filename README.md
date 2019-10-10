@@ -71,10 +71,10 @@ $ git config --global user.name "namasaya"
 $ git config --global user.email emailsaya
 
 **Contoh :**
-'''
+```
 $ git config --global user.name "namasaya"
 $ git config --global user.email emailsaya@mail.com
-'''
+```
 
 
 
