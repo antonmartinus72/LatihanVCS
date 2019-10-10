@@ -21,7 +21,7 @@ Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah in
 Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik **"Next"** sampai instalasi selesai.
 
 ## 2. Membuat akun Github
-Selanjutnya anda harus mempunyai akun github terlebih dahulu, jika anda belum pernah mendaftar silahkan ikuti langkah-langkah berikut.  
+<p>Selanjutnya anda harus mempunyai akun github terlebih dahulu, jika anda belum pernah mendaftar silahkan ikuti langkah-langkah berikut.</p>
 Silahkan anda kunjungi website github.com maka akan terlihat tampilan seperti dibawah ini :
 
 ![gambar halaman github](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_3.png)
