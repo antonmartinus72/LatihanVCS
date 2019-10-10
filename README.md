@@ -13,8 +13,8 @@ Silahkan anda download sesuai versi sistem operasi dan arsitektur yang anda paka
 
 ### Instalasi
 
-<p>Silahkan anda buka file instalasi git yang sudah anda download tadi.</p>
-<p>Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah ini :</p>
+<p>Silahkan anda buka file instalasi git yang sudah anda download tadi.
+Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah ini :</p>
 
 ![gambar instalasi git](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_2.png)
 
