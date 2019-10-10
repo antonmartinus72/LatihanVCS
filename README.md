@@ -22,6 +22,7 @@ Selanjutnya anda harus mempunyai akun github, jika anda belum pernah mendaftar s
 Silahkan anda kunjungi website github.com maka akan terlihat tampilan seperti dibawah ini :
 
 ![gambar halaman github]
+
 Lalu anda klik "Sign Up" pada pojok kanan atas halaman. 
 Berikut tampilan pendaftaran github :
 
