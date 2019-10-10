@@ -4,7 +4,7 @@
 Dimulai dari Instalasi perangkat lunak Git sampai repositori baru dibuat.
 Di sini saya akan menggunakan Github.com sebagai managemen proyek yang akan kita pakai dalam petunjuk ini.
 
-## Permulaan
+## 1. Permulaan
 Pertama kita akan menginstall perangkat lunak yang bernama "Git", silahkan anda download dari halaman "http://git-scm.com/download" tanpa tanda petik.
 
 ![gambar web git-scm](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_1.png)
@@ -19,7 +19,8 @@ Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah in
 ![gambar instalasi git](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_2.png)
 
 Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik "Next" sampai instalasi selesai.
----
+
+## 2. Membuat akun Github
 Selanjutnya anda harus mempunyai akun github, jika anda belum pernah mendaftar silahkan ikuti langkah berikut.
 Silahkan anda kunjungi website github.com maka akan terlihat tampilan seperti dibawah ini :\
 
