@@ -21,12 +21,12 @@ Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik "Ne
 Selanjutnya anda harus mempunyai akun github, jika anda belum pernah mendaftar silahkan ikuti langkah berikut.
 Silahkan anda kunjungi website github.com maka akan terlihat tampilan seperti dibawah ini :
 
-![gambar halaman github] (https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_3.png)
+![gambar halaman github](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_3.png)
 
 Lalu anda klik "Sign Up" pada pojok kanan atas halaman. 
 Berikut tampilan pendaftaran github :
 
-![gambar daftar github] (https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_4.png)
+![gambar daftar github](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_4.png)
 
 Anda akan masuk pada halaman pendaftaran "Step 1".
 Silahkan isi Username, Email address dan Password anda.
@@ -47,11 +47,11 @@ Pada Step 3, Verifikasi akan dikirimkan oleh Github dalam bentuk email ke alamat
 
 Silahkan anda ikon "+" pada sudut kanan atas halaman lalu pilih "New repository" seperti gambar di bawah ini :
 
-![Img membuat repo] (https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_5.png)
+![Img membuat repo](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_5.png)
 
 Maka akan muncul tampilan seperti di bawah ini :
 
-![Img tampilan membuat repositori] (https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_6.png)
+![Img tampilan membuat repositori](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_6.png)
 
 Isi "Repository name" dengan nama yang anda inginkan. Tetapi mari kita gunakan nama "Latihan1" sebagai permulaan, agar bisa lebih mudah mengikuti petunjuk ini di bagian selanjutnya
 
