@@ -1,6 +1,6 @@
 # Cara Membuat Repositori Baru
 
-Dalam petunjuk ini, saya akan membahas bagaimana cara membuat repositori baru.
+<p>Dalam petunjuk ini, saya akan membahas bagaimana cara membuat repositori baru.</p>
 Dimulai dari Instalasi perangkat lunak Git sampai repositori baru dibuat.
 Di sini saya akan menggunakan Github.com sebagai managemen proyek yang akan kita pakai dalam petunjuk ini.
 
@@ -13,8 +13,8 @@ Silahkan anda download sesuai versi sistem operasi dan arsitektur yang anda paka
 
 ### Instalasi
 
-Silahkan anda buka file instalasi git yang sudah anda download tadi.
-Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah ini :
+<p>Silahkan anda buka file instalasi git yang sudah anda download tadi.</p>
+<p>Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah ini :</p>
 ![gambar instalasi git](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_2.png)
 Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik "Next" sampai instalasi selesai.
 
