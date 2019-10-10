@@ -18,10 +18,10 @@ Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah in
 
 ![gambar instalasi git](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_2.png)
 
-Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik "Next" sampai instalasi selesai.
+Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik **"Next"** sampai instalasi selesai.
 
 ## 2. Membuat akun Github
-Selanjutnya anda harus mempunyai akun github, jika anda belum pernah mendaftar silahkan ikuti langkah berikut.
+Selanjutnya anda harus mempunyai akun github terlebih dahulu, jika anda belum pernah mendaftar silahkan ikuti langkah-langkah berikut.\s\s
 Silahkan anda kunjungi website github.com maka akan terlihat tampilan seperti dibawah ini :
 
 ![gambar halaman github](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_3.png)
@@ -44,7 +44,7 @@ Klik **"Create an account"** di akhir halaman **Step 1**
 * Usahakan untuk meminimalisir kesalahan saat melakukan "Verify account" pada saat pengisian data.
 
 Jika data sudah berhasil anda isi, maka anda bisa melanjutkan ke **Step 2** dan **Step 3**.
-Pada Step 3, Verifikasi akan dikirimkan oleh Github dalam bentuk email ke alamat email yang telah anda masukan pada tahap pengisian data atau Step 1.
+Pada **Step 3**, Verifikasi akan dikirimkan oleh Github dalam bentuk email ke alamat email yang telah anda masukan pada tahap pengisian data atau Step 1.
 
 ### Selanjutnya adalah langkah membuat repositori baru dalam github.
 
@@ -56,6 +56,6 @@ Maka akan muncul tampilan seperti di bawah ini :
 
 ![Img tampilan membuat repositori](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_6.png)
 
-Isi "Repository name" dengan nama yang anda inginkan. Tetapi mari kita gunakan nama "Latihan1" sebagai permulaan, agar bisa lebih mudah mengikuti petunjuk ini di bagian selanjutnya
+Isi "Repository name" dengan nama yang anda inginkan. Tetapi mari kita gunakan nama **"Latihan1"** sebagai permulaan, agar bisa lebih mudah mengikuti petunjuk ini di bagian selanjutnya.
 
-# Menggunakan Git
+# 3. Menggunakan Git
