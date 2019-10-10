@@ -1,8 +1,8 @@
-# Cara Membuat Repositori Baru
+# Cara Membuat Repositori VCS Baru
 
 <p>Dalam petunjuk ini, saya akan membahas bagaimana cara membuat repositori baru.</p>
 Dimulai dari Instalasi perangkat lunak Git sampai repositori baru dibuat.
-Di sini saya akan menggunakan Github.com sebagai managemen proyek yang akan kita pakai dalam petunjuk ini dan Sistem Operasi Windows 7. Mungkin cara yang akan saya gunakan disini akan sedikit berbeda dengan sistem operasi Linux dan Mac OS X.
+Di sini saya akan menggunakan Github.com sebagai VCS yang akan kita pakai dalam petunjuk ini, dan dengan menggunakan sistem operasi Windows. Mungkin cara yang akan saya gunakan disini akan sedikit berbeda dengan cara yang digunakan pada sistem operasi Linux dan Mac OS X.
 
 ## 1. Permulaan
 Pertama kita akan menginstall perangkat lunak yang bernama "Git", silahkan anda download dari halaman "http://git-scm.com/download" tanpa tanda petik.
@@ -59,5 +59,24 @@ Maka akan muncul tampilan seperti di bawah ini :
 Isi "Repository name" dengan nama yang anda inginkan. Tetapi mari kita gunakan nama **"Latihan1"** sebagai permulaan, agar bisa lebih mudah mengikuti petunjuk ini di bagian selanjutnya.
 
 # 3. Menggunakan Git
-Jika anda sudah menyelesaikan tahap satu, anda bisa mengikuti petunjuk bagaimana menggunakan git. Silahkan anda buka aplikasi yang sudah anda install pada petunjuk nomor 1 yaitu **"Git Bash"**.  
-Biasanya Git Bash ini bisa dibuka langsung dengan cara "klik kanan" di desktop maupun windows explorer. Namun sebagai permulaan saya akan membuka aplikasi dari **Start Menu > All programs > Git > Git Bash** atau dengan mengetikan langsung "Git Bash" pada **Start Menu** di sistem operasi Windows.
+Jika anda sudah menyelesaikan tahap satu, anda bisa mengikuti petunjuk bagaimana menggunakan git. Silahkan anda buka aplikasi yang sudah anda install pada petunjuk nomor 1 yaitu **"Git Bash"**. Anda juga bisa menggunakan Command Prompt (CMD), namun karena menggunakan git bash lebih mudah saat ini, jadi mari ikuti langkah ini.  
+Biasanya Git Bash ini bisa dibuka langsung dengan cara "klik kanan" di desktop maupun windows explorer. Namun sebagai permulaan saya akan membuka aplikasi dari **Start Menu > All programs > Git > Git Bash** atau dengan mengetikan langsung "Git Bash" pada **Start Menu** di sistem operasi Windows.  
+
+Tampilah git bash akan seperti ini :
+
+![img git bash]()
+
+Silahkan ketikan kode berikut untuk melakukan memperkenalkan diri anda agar tidak terjadi masalah pada saat nanti :
+$ git config --global user.name "namasaya"
+$ git config --global user.email emailsaya
+
+**Contoh :**
+'''
+$ git config --global user.name "namasaya"
+$ git config --global user.email emailsaya@mail.com
+'''
+
+
+
+
+
