@@ -19,7 +19,7 @@ Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah in
 ![gambar instalasi git](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_2.png)
 
 Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik "Next" sampai instalasi selesai.
-<br>
+---
 Selanjutnya anda harus mempunyai akun github, jika anda belum pernah mendaftar silahkan ikuti langkah berikut.
 Silahkan anda kunjungi website github.com maka akan terlihat tampilan seperti dibawah ini :\
 
