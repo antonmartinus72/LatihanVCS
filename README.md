@@ -82,6 +82,7 @@ $ cd d:
 $ mkdir Latihan1
 $ cd Latihan1
 ``` 
+![img git bash](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_7.png)
 Lalu masukan perintah berikut untuk membuat file "README.md"  
 ```
 $ echo "# Latihan1" >> README.md
@@ -94,7 +95,7 @@ $ git push -u origin master
 Untuk mendapatkan **"Url_Repository_anda"**, silahkan buka repository **"Latihan1"** yang sudah anda buat di akun github anda.  
 Lalu pilih "Clone or download" dan salin url yang tertera.
 
-![img link repo]()
+![img link repo](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_8.png)
 
 Contoh kode perintah yang akan anda masukan :
 ```
@@ -104,3 +105,8 @@ $ git remote add origin https://github.com/antonmartinus72/latihan1.git
 Setelah anda memasukan semua kode perintah, anda akan diminta memasukan **Username** dan **Password** github anda.
 
 ## ~~Selamat~~
+Anda sudah berhasil membuat file repository bernama "Latihan1" yang di isi dengan file "README.md" dan anda akan melihat teks "Latihan1" dengan cetak tebal pada repository github anda.
+
+Silahkan refresh browser anda untuk melihat hasil yang sudah anda kerjakan tadi.
+
+Sekian dari saya, dan semoga bermanfaat.
