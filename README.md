@@ -1,4 +1,4 @@
-# Cara Membuat Repositoriy VCS Baru
+# Cara Membuat Repository VCS Baru
 
 <p>Dalam petunjuk ini, saya akan membahas bagaimana cara membuat repository baru.</p>
 Dimulai dari Instalasi perangkat lunak Git sampai repository baru dibuat.
@@ -57,7 +57,7 @@ Maka akan muncul tampilan seperti di bawah ini :
 
 Isi **"Repository name"** dengan nama yang anda inginkan. Mari kita gunakan nama **"Latihan1"** sebagai permulaan, agar bisa lebih mudah mengikuti petunjuk ini selanjutnya.
 
-# 3. Menggunakan Git
+## 3. Menggunakan Git
 Jika anda sudah menyelesaikan petunjuk nomor 1 **(1. Permulaan)**, anda bisa mengikuti petunjuk bagaimana menggunakan git. Silahkan anda buka aplikasi yang sudah anda install pada petunjuk nomor 1 yaitu **"Git Bash"**. Anda juga bisa menggunakan Command Prompt (CMD), namun karena menggunakan git bash lebih mudah saat ini, jadi mari ikuti langkah ini.  
 Biasanya Git Bash ini bisa dibuka langsung dengan cara "klik kanan" di desktop maupun windows explorer. Namun sebagai permulaan, saya akan membuka aplikasi dari **Start Menu > All programs > Git > Git Bash** atau dengan mengetikan langsung "Git Bash" pada **Start Menu** di sistem operasi Windows.  
 
@@ -82,7 +82,7 @@ $ cd d:
 $ mkdir Latihan1
 $ cd Latihan1
 ``` 
-![img git bash](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_7.png)
+![img git bash](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_7.png)  
 Lalu masukan perintah berikut untuk membuat file "README.md"  
 ```
 $ echo "# Latihan1" >> README.md
@@ -104,7 +104,7 @@ $ git remote add origin https://github.com/antonmartinus72/latihan1.git
 
 Setelah anda memasukan semua kode perintah, anda akan diminta memasukan **Username** dan **Password** github anda.
 
-## ~~Selamat~~
+# Selamat~~
 Anda sudah berhasil membuat file repository bernama "Latihan1" yang di isi dengan file "README.md" dan anda akan melihat teks "Latihan1" dengan cetak tebal pada repository github anda.
 
 Silahkan refresh browser anda untuk melihat hasil yang sudah anda kerjakan tadi.
