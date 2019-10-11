@@ -7,7 +7,7 @@ Di sini saya akan menggunakan Github.com sebagai VCS yang akan kita pakai dalam 
 ## 1. Permulaan
 Pertama-tama kita akan menginstall perangkat lunak yang bernama "Git", silahkan anda download dari halaman "http://git-scm.com/download" tanpa tanda petik.
 
-![gambar web git-scm](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_1.png)
+![gambar web git-scm](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_1.png)
 
 Silahkan anda download sesuai versi sistem operasi dan arsitektur yang anda pakai. Disini saya menggunakan sistem operasi Windows dengan arsitektur 64 bit.
 
@@ -16,7 +16,7 @@ Silahkan anda download sesuai versi sistem operasi dan arsitektur yang anda paka
 <p>Silahkan anda buka file instalasi git yang sudah anda download tadi.
 Setelah anda membuka file tersebut, maka akan muncul tampilan seperti dibawah ini :</p>
 
-![gambar instalasi git](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_2.png)
+![gambar instalasi git](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_2.png)
 
 Saya rekomendasikan anda untuk menggunakan pengaturan default. Silahkan klik **"Next"** sampai instalasi selesai.
 
@@ -108,5 +108,6 @@ Setelah anda memasukan semua kode perintah, anda akan diminta memasukan **Userna
 Anda sudah berhasil membuat file repository bernama **"Latihan1"** yang di isi dengan file **"README.md"** dan anda akan melihat teks **"Latihan1"** dengan cetak tebal pada repository github anda.
 
 Silahkan refresh browser anda untuk melihat hasil yang sudah anda kerjakan tadi.
+![img link repo](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_9.png)
 
 Sekian dari saya, dan semoga bermanfaat~.
