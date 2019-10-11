@@ -105,8 +105,8 @@ $ git remote add origin https://github.com/antonmartinus72/latihan1.git
 Setelah anda memasukan semua kode perintah, anda akan diminta memasukan **Username** dan **Password** github anda.
 
 # Selamat~~
-Anda sudah berhasil membuat file repository bernama "Latihan1" yang di isi dengan file "README.md" dan anda akan melihat teks "Latihan1" dengan cetak tebal pada repository github anda.
+Anda sudah berhasil membuat file repository bernama **"Latihan1"** yang di isi dengan file **"README.md"** dan anda akan melihat teks **"Latihan1"** dengan cetak tebal pada repository github anda.
 
 Silahkan refresh browser anda untuk melihat hasil yang sudah anda kerjakan tadi.
 
-Sekian dari saya, dan semoga bermanfaat.
+Sekian dari saya, dan semoga bermanfaat~.
