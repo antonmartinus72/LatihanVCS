@@ -72,11 +72,15 @@ $ git config --global user.email emailsaya
 
 **Contoh :**
 ```
-$ git config --global user.name "namasaya"
-$ git config --global user.email emailsaya@mail.com
+$ git config --global user.name "namasaya"  
+$ git config --global user.email emailsaya@mail.com  
+```
+Selanjutnya kita akan cek lokasi direktori kita saat ini :
+```
+$ pwd
 ```
 
-# CONTOH
+
 
 
 
