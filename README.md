@@ -61,7 +61,7 @@ Isi **"Repository name"** dengan nama yang anda inginkan. Mari kita gunakan nama
 Jika anda sudah menyelesaikan petunjuk nomor 1 **(1. Permulaan)**, anda bisa mengikuti petunjuk bagaimana menggunakan git. Silahkan anda buka aplikasi yang sudah anda install pada petunjuk nomor 1 yaitu **"Git Bash"**. Anda juga bisa menggunakan Command Prompt (CMD), namun karena menggunakan git bash lebih mudah saat ini, jadi mari ikuti langkah ini.  
 Biasanya Git Bash ini bisa dibuka langsung dengan cara "klik kanan" di desktop maupun windows explorer. Namun sebagai permulaan, saya akan membuka aplikasi dari **Start Menu > All programs > Git > Git Bash** atau dengan mengetikan langsung "Git Bash" pada **Start Menu** di sistem operasi Windows.  
 
-Silahkan ketikan kode berikut untuk melakukan memperkenalkan diri anda agar tidak terjadi masalah pada saat nanti :
+Silahkan ketikan kode berikut untuk memperkenalkan diri anda agar tidak terjadi kesalahan pada proses selanjutnya :
 ```
 $ git config --global user.name "namasaya"
 $ git config --global user.email emailsaya
