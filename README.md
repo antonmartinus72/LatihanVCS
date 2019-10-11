@@ -1,7 +1,7 @@
-# Cara Membuat Repositori VCS Baru
+# Cara Membuat Repositoriy VCS Baru
 
-<p>Dalam petunjuk ini, saya akan membahas bagaimana cara membuat repositori baru.</p>
-Dimulai dari Instalasi perangkat lunak Git sampai repositori baru dibuat.
+<p>Dalam petunjuk ini, saya akan membahas bagaimana cara membuat repository baru.</p>
+Dimulai dari Instalasi perangkat lunak Git sampai repository baru dibuat.
 Di sini saya akan menggunakan Github.com sebagai VCS yang akan kita pakai dalam petunjuk ini, dan dengan menggunakan sistem operasi Windows. Mungkin cara yang akan saya gunakan disini akan sedikit berbeda dengan cara yang digunakan pada sistem operasi Linux dan Mac OS X.
 
 ## 1. Permulaan
@@ -46,7 +46,7 @@ Klik **"Create an account"** di akhir halaman **Step 1**
 Jika data sudah berhasil anda isi, maka anda bisa melanjutkan ke **Step 2** dan **Step 3**.
 Pada **Step 3**, Verifikasi akan dikirimkan oleh Github dalam bentuk email ke alamat email yang telah anda masukan pada **tahap pengisian data** atau **Step 1**.
 
-### Selanjutnya adalah langkah membuat repositori baru dalam github.
+### Selanjutnya adalah langkah membuat repository baru dalam github.
 
 Silahkan anda ikon "**+"** pada sudut kanan atas halaman lalu pilih "**New repository**" seperti gambar di bawah ini :
 
@@ -54,17 +54,13 @@ Silahkan anda ikon "**+"** pada sudut kanan atas halaman lalu pilih "**New repos
 
 Maka akan muncul tampilan seperti di bawah ini :
 
-![Img tampilan membuat repositori](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_6.png)
+![Img tampilan membuat repository](https://github.com/antonmartinus72/LatihanVCS/blob/master/img/Img_6.png)
 
 Isi "Repository name" dengan nama yang anda inginkan. Tetapi mari kita gunakan nama **"Latihan1"** sebagai permulaan, agar bisa lebih mudah mengikuti petunjuk ini di bagian selanjutnya.
 
 # 3. Menggunakan Git
 Jika anda sudah menyelesaikan tahap satu, anda bisa mengikuti petunjuk bagaimana menggunakan git. Silahkan anda buka aplikasi yang sudah anda install pada petunjuk nomor 1 yaitu **"Git Bash"**. Anda juga bisa menggunakan Command Prompt (CMD), namun karena menggunakan git bash lebih mudah saat ini, jadi mari ikuti langkah ini.  
 Biasanya Git Bash ini bisa dibuka langsung dengan cara "klik kanan" di desktop maupun windows explorer. Namun sebagai permulaan saya akan membuka aplikasi dari **Start Menu > All programs > Git > Git Bash** atau dengan mengetikan langsung "Git Bash" pada **Start Menu** di sistem operasi Windows.  
-
-Tampilah git bash akan seperti ini :
-
-![img git bash]()
 
 Silahkan ketikan kode berikut untuk melakukan memperkenalkan diri anda agar tidak terjadi masalah pada saat nanti :
 $ git config --global user.name "namasaya"
@@ -79,9 +75,30 @@ Selanjutnya kita akan cek lokasi direktori kita saat ini :
 ```
 $ pwd
 ```
+Disini saya akan membuat folder lokal di disk D: dengan nama folder "Latihan1" :
 
+```
+$ cd d:
+$ mkdir Latihan1
+$ cd Latihan1
+``` 
+Lalu masukan perintah berikut untuk membuat file "README.md"  
+```
+$ echo "# Latihan1" >> README.md
+$ git init 
+$ git add README.md
+$ git commit -m "File pertama saya"
+$ git remote add origin [Url_Repository_anda]
+$ git push -u origin master
+```
+Untuk mendapatkan "Url_Repository_anda", silahkan buka repository "Latihan1" yang sudah anda buat di github.com.  
+Lalu pilih "Clone or download" dan salin url pada repository anda.
 
+![img link repo]()
 
+Contoh kode perintah yang akan anda masukan :
+```
+$ git remote add origin https://github.com/antonmartinus72/latihan1.git
+```
 
-
-
+Setelah anda memasukan semua kode perintah, anda akan diminta memasukan **Username** dan **Password** github anda.
